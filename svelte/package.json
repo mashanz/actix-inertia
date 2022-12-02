@@ -12,5 +12,9 @@
     "@sveltejs/vite-plugin-svelte": "^1.1.0",
     "svelte": "^3.52.0",
     "vite": "^3.2.3"
+  },
+  "dependencies": {
+    "@inertiajs/inertia": "^0.11.1",
+    "@inertiajs/inertia-svelte": "^0.8.0"
   }
 }
